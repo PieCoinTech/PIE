@@ -1,0 +1,11 @@
+[Protocol]
+exec=PieCoin-qt '%u'
+protocol=PieCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,9 @@
+Building PieCoin
+
+See doc/readme-qt.rst for instructions on building PieCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PieCoin.
+
+See doc/build-*.txt for instructions on building PieCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PieCoin.

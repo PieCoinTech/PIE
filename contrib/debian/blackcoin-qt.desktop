@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PieCoin
+Comment=PieCoin P2P Cryptocurrency
+Comment[fr]=PieCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PieCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PieCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/PieCoin;
+Categories=Office;
